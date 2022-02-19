@@ -1,1 +1,1 @@
-Open this batch file in administrator
+Open the batch file in administrator
